@@ -1,0 +1,27 @@
+<ul class="skills text-center">
+
+        <li><img src="/assets/html-logo.svg" alt="html" class="img-fluid skills-logo">
+          <h3 class="skill tittle">HTML</h3>
+        </li>
+        <li><img src="/assets/css-logo.svg" alt="css" class="img-fluid skills-logo">
+          <h3 class="skill tittle">CSS</h3>
+        </li>
+        <li><img src="/assets/bootstrap-logo.svg" alt="bootstrap" class="img-fluid skills-logo">
+          <h3 class="skill tittle">BOOTSTRAP</h3>
+        </li>
+        <li><img src="/assets/js-logo.png" alt="javascript" class="img-fluid skills-logo">
+          <h3 class="skill tittle">JAVASCRIPT</h3>
+        </li>
+        <li><img src="/assets/react.png" alt="react" class="img-fluid skills-logo">
+          <h3 class="skill tittle">REACT.JS</h3>
+        </li>
+        <li><img src="/assets/git.svg" alt="git" class="img-fluid skills-logo">
+          <h3 class="skill tittle">GIT</h3>
+        </li>
+        <li><img src="/assets/fire-base.svg" alt="firebase" class="img-fluid skills-logo">
+          <h3 class="skill tittle">FIREBASE</h3>
+        </li>
+        <li><img src="/assets/python.svg" alt="python" class="img-fluid skills-logo">
+          <h3 class="skill tittle">PYTHON</h3>
+        </li>
+      </ul>
